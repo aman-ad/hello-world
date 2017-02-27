@@ -1,4 +1,5 @@
 # hello-world
 
 
-Amandeep here,I am a programmer.I likeJAVA,JSP,Hibernate and PL/SQL.
+Myself Amandeep,I am a programmar.I like JAVA,JSP,Hibernate and PL/SQL.
+
